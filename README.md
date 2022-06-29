@@ -1,4 +1,4 @@
-# engeneers_thesis
+# engineers_thesis
 Polish title: Porównanie metod do wykrywania tekstu na zdjęciach etykiet produktów
 
 All materials and work surrounding the process of writing and completing my thesis.
